@@ -1,0 +1,32 @@
+.text-dark-1 {
+	color: #616161;
+}
+.a-1:hover {
+	color: #343434;
+	transition: 0.5s;
+	text-decoration: none;
+}
+.a-1 {
+	font-weight: 600;
+}
+.btn-green {
+	background-color: #37d74e;
+}
+.btn-green:hover {
+	background: #2ab23e;
+}
+.icon {
+	height: 72px;
+}
+.bg-yellow {
+	background: #f2d618;
+}
+.border-yellow {
+	border: 2px solid #f2d618;
+}
+.btn-gray {
+	background-color:  #616161;
+}
+.btn-gray:hover {
+	background-color: #343434;
+}
